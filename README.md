@@ -1,4 +1,4 @@
-# calc-lhp
+# calculator-lhp
 //Calculator for LHP
 
 //
